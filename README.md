@@ -5,3 +5,4 @@ Edytowany plik
 nowa zmiana
 another
 zmiana zmiana
+https://octodex.github.com/images/Fintechtocat.png
